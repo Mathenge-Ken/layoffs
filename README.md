@@ -1,4 +1,4 @@
-**# Layoffs Data Analysis Project**
+# Layoffs Data Analysis Project  📉 📈 
 
 ## Overview
 For this project SQL using POSTGRESQL is used to analyze a dataset containing informaiton on employees layoffs across various companies in 2023.
