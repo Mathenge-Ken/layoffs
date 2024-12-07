@@ -1,5 +1,5 @@
-# Layoffs Data Analysis Project
+**# Layoffs Data Analysis Project**
 
 ## Overview
-This project aims to analyze a dataset containing information about layoffs across various companies. .
-By utilizing PostgreSQL, we will explore the "layoffs" table, which provides insights into the number of layoffs, affected companies, and the dates of these events. 
+For this project SQL using POSTGRESQL is used to analyze a dataset containing informaiton on employees layoffs across various companies in 2023.
+The purpose of the project is to demonstrate a typical workflow in data cleaning and exploration.
